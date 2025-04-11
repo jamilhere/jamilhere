@@ -2,7 +2,7 @@
 
 <p align="left">
   🎓 B.Sc. in Computer Science & Engineering (CSE) <br>
-  💻 Future Software Engineer | Passionate Problem Solver <br>
+  💻 Software Engineer | Passionate Problem Solver <br>
   🌱 Currently learning Data Structures and Algorithms with Phitron <br>
   🚀 Always exploring new technologies and building cool projects!
 </p>
