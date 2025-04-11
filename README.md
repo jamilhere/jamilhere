@@ -1,9 +1,5 @@
 <h1 align="left">Hi there, I'm Jamil 👋</h1>
 
-<p align="right">
-  <img src="[https://ibb.co.com/kV9ZPcZ9](https://postimg.cc/m1P7zkgd)" alt="Jamil Ahmed" width="200" />
-</p>
-
 <p align="left">
   🎓 B.Sc. in Computer Science & Engineering (CSE) <br>
   💻 Software Engineer | WordPress Developer | Passionate Problem Solver <br>
@@ -26,7 +22,10 @@
 
 - 🧩 **WordPress Developer:**  
   I’ve been working with WordPress for over **2 years**, building and customizing themes, designing responsive landing pages, and optimizing websites for better performance and UX.
-  
+
+- 🧠 **Problem Solving Enthusiast:**  
+  I solve coding problems **every day**, sharpening my skills in data structures, algorithms, and competitive programming. I love the challenge and growth it brings!
+
 - 🚀 **Always Growing:**  
   I believe in **learning something new every day**. Whether it's a new framework, a coding trick, or a design principle—I'm constantly working to grow my skillset and experience.
 
@@ -42,12 +41,27 @@
 
 ### 📫 Let's Connect
 
-- 🌐 **Portfolio:** [developerjamil.com](https://developerjamil.com)
-- 📧 **Email:** jamilahmedbd60@gmail.com
-- 💬 **LinkedIn:** [linkedin.com/in/jamil001](https://www.linkedin.com/in/jamil001/)
-- 🎨 **Behance:** [behance.net/jamil001](https://www.behance.net/jamil001)
-- 🌍 Currently building my personal brand and presence across platforms!
+<p align="left">
+  <a href="mailto:jamilahmedbd60@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jamil001" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/jamil001" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://developerjamil.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-_Thanks for visiting my profile! ⭐ Feel free to star a repo or drop a message. Let’s connect and grow together as developers!_
+### 💡 Quote I Live By
+
+> "_Success doesn’t come from what you do occasionally. It comes from what you do consistently._"
+
+---
+
+_Thanks for visiting my profile! ⭐ Feel free to star a repo or drop a message. Let’s connect with me!_
