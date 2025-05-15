@@ -1,10 +1,10 @@
-<h1 align="left">Hi there, I'm Jamil </h1>
+<h1 align="left">Abour Me</h1>
 
 <p align="left">
-  **B.Sc. in Computer Science & Engineering (CSE) <br>
-  **Software Engineer | WordPress Developer | Passionate Problem Solver <br>
-  **Currently learning Data Structures and Algorithms with Phitron <br>
-  **Always exploring new technologies and building cool projects!
+  **B.Sc. in Computer Science & Engineering (CSE)** <br>
+ - **Software Engineer | WordPress Developer | Passionate Problem Solver <br>
+ - **Currently learning Data Structures and Algorithms with Phitron <br>
+ - **Always exploring new technologies and building cool projects!
 </p>
 
 ---
